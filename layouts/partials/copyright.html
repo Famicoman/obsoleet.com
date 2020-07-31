@@ -1,0 +1,15 @@
+
+{{ with .Site.Params.Copyright.Prefix }}
+    {{ . | markdownify }} | 
+{{end}}
+(cc) 
+{{ with .Site.Params.copyright.url }}<a href="{{ . }}" target="_blank">{{ end }}
+    {{ .Site.Params.copyright.name }}
+{{ with .Site.Params.copyright.url }}</a>{{ end }}
+<span id="thisyear">2010 - {{ dateFormat "2006" now }}</span>
+{{ with .Site.Params.Copyright.Suffix }}
+    | {{ . | markdownify }}
+{{end}}
+{{ if and (isset .Site.Params "showhugo") ( eq .Site.Params.shohugo "true") }}
+        | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
+{{ end }}
