@@ -20,6 +20,6 @@ I have &#8220;created&#8221; an RSS feed for the torrents of episodes available 
 
 [<http://feeds.feedburner.com/ObsoleetTorrents>][1]
 
-I basically made a feedburner pointed at an RSS feed that corresponds to searching for &#8216;obsoleet' on Kickass-Torrents. This way, if I upload a new torrent, it will pop up in the feed. Now, I used feedburner so there is an easy transition if I ever decide to handle the RSS feed for the torrents in another fashion.
+I basically made a feedburner pointed at an RSS feed that corresponds to searching for 'obsoleet' on Kickass-Torrents. This way, if I upload a new torrent, it will pop up in the feed. Now, I used feedburner so there is an easy transition if I ever decide to handle the RSS feed for the torrents in another fashion.
 
  [1]: http://feeds.feedburner.com/ObsoleetTorrents "http://feeds.feedburner.com/ObsoleetTorrents"

@@ -23,38 +23,11 @@ I’d also like to add that I’ve also been devoting a bit more of my energy to
 
 The time off hasn’t been completely wasted. Below are some stills of things I have been messing with that may find themselves in future episodes. Thanks for sticking around, and I hope to have something out soon.
 
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby.jpg"><img class="alignnone size-full wp-image-171" title="tumblr_lbr0xjPBsf1qbxpby" src="/images/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby.jpg"><img class="alignnone size-full wp-image-172" title="tumblr_lbr1m0Jyt71qbxpby" src="/images/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby.jpg"><img class="alignnone size-full wp-image-173" title="tumblr_lbr1mmtvkl1qbxpby" src="/images/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby.jpg"><img class="alignnone size-full wp-image-174" title="tumblr_lbr1nyUsBw1qbxpby" src="/images/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby.jpg"><img class="alignnone size-full wp-image-175" title="tumblr_lbr1orSTWt1qbxpby" src="/images/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-<p style="text-align: center;">
-  <a href="/images/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby.jpg"><img class="alignnone size-full wp-image-176" title="tumblr_lbr1pbPOkA1qbxpby" src="/images/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby.jpg" alt="" width="500" height="375" srcset="https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby.jpg 500w, https://obsoleet.com/wp-content/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+[![still](/images/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr0xjPBsf1qbxpby.jpg)
+[![still](/images/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr1m0Jyt71qbxpby.jpg)
+[![still](/images/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr1mmtvkl1qbxpby.jpg)
+[![still](/images/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr1nyUsBw1qbxpby.jpg)
+[![still](/images/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr1orSTWt1qbxpby.jpg)
+[![still](/images/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby-300x225.jpg)](/images/uploads/2010/11/tumblr_lbr1pbPOkA1qbxpby.jpg)
 
  [1]: http://iptvarchive.cmdline.org/ "The IPTV Archive"

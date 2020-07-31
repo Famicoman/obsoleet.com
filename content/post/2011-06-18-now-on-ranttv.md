@@ -18,11 +18,9 @@ tags:
   - sean kennedy
 
 ---
-Obsoleet is now on RantTV, the oldest internet television station! If you used to be big into the iptv scene, Rant will ring a few bells. Not only did they have a video stream of popular web-only shows, but also produced their own video shows featuring Sean Kennedy.
+Obsoleet is now on RantTV, the oldest Internet television station! If you used to be big into the iptv scene, Rant will ring a few bells. Not only did they have a video stream of popular web-only shows, but also produced their own video shows featuring Sean Kennedy.
 
-<p style="text-align: center;">
-  <a href="/images/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby.jpg"><img class="alignnone size-full wp-image-168" title="tumblr_ln00yy2BwL1qbxpby" src="/images/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby.jpg" alt="" width="475" height="135" srcset="https://obsoleet.com/wp-content/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby.jpg 475w, https://obsoleet.com/wp-content/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby-300x85.jpg 300w" sizes="(max-width: 475px) 100vw, 475px" /></a>
-</p>
+[![ranttv](/images/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby-300x85.jpg)](/images/uploads/2011/06/tumblr_ln00yy2BwL1qbxpby.jpg)  
 
 Every episode of Obsoleet is now included in the rotation, and if you tune in to the stream, you can view awesome content from other members of the RantMedia community.
 

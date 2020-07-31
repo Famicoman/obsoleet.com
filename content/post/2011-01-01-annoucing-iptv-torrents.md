@@ -3,7 +3,7 @@ title: Annoucing IPTV Torrents!
 author: Famicoman
 type: post
 date: 2011-01-01T23:17:00+00:00
-draft: true
+url: /2011/02/announcing-iptv-torrents/
 url: /?p=13
 tumblr_obsoleet_permalink:
   - http://obsoleet.tumblr.com/post/2558863105/annoucing-iptv-torrents
@@ -17,7 +17,7 @@ So I’m sure many of you know my work with the [IPTV Archive][1], and in a simi
 
 The idea for the site came around a month ago, and quickly went into a closed testing period. After it proved stable enough, it was expanded to a closed beta and has been so until today, where it is now completely public.
 
-[<img class="aligncenter size-full wp-image-147" src="http://famicoman.com/wp-content/uploads/2011/01/Logo.png" alt="" width="450" height="90" />][5]
+![logo](/images/uploads/iptorrents-logo.png)]
 
 IPTV Torrents offers great potential. Not only can it be a great service for finding older, lost iptv shows, but can also be a great resource for newer ones. Why wade through dozens of pages of download links when you can click one and be done? It can even act as a launch pad for show creators to share their content, talk with other creators, and get connected with potential viewers.
 
@@ -29,4 +29,3 @@ Happy IPTVing.
  [2]: http://iptvtorrents.com/
  [3]: http://deauththis.com
  [4]: http://kacomps.com/
- [5]: http://famicoman.com/wp-content/uploads/2011/01/Logo.png

@@ -1,3 +1,7 @@
 img {
   filter: unset;
 }
+
+.figurecenter{
+  text-align: center;
+}

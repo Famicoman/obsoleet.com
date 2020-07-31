@@ -17,7 +17,7 @@ tags:
   - video
 
 ---
-Obsoleet is now on [That Guy with the Glasses][1]. So, if you happen to be on the site, send me a contact invite and comment on the show and whatnot. Check it out [here][2].
+~~Obsoleet is now on [That Guy with the Glasses][1]. So, if you happen to be on the site, send me a contact invite and comment on the show and whatnot. Check it out [here][2].~~
 
  [1]: http://thatguywiththeglasses.com/ "http://thatguywiththeglasses.com/"
  [2]: http://thatguywiththeglasses.com/community/myvideos/obsoleet "http://thatguywiththeglasses.com/community/myvideos/obsoleet"

@@ -18,7 +18,7 @@ tags:
   - arduino
 
 ---
-It’s been a bit more than two months since the last episode of Obsoleet hit the internet, and you might be wondering what the deal with that is. Well, a multitude of things come into play here. My personal life, and my professional life have undergone some changes lately, and I don’t have the time or energy I once did. I am by no means saying that I have no time whatsoever, things have just hit a crawl. Many of my projects and projects I am involved in are slowing down, though one is actually moving again after years (more on this in the future), and all this is being shifted and optimized as I work with my schedule to do more things I enjoy doing.
+It’s been a bit more than two months since the last episode of Obsoleet hit the Internet, and you might be wondering what the deal with that is. Well, a multitude of things come into play here. My personal life, and my professional life have undergone some changes lately, and I don’t have the time or energy I once did. I am by no means saying that I have no time whatsoever, things have just hit a crawl. Many of my projects and projects I am involved in are slowing down, though one is actually moving again after years (more on this in the future), and all this is being shifted and optimized as I work with my schedule to do more things I enjoy doing.
 
 Having said that, I still constantly toy with everything. I recently bought an [Arduino Uno][1] and set off to build an [Auduino][2] that I hope to toy with a bit. It’s a pretty cool and simple analog synthesizer that can make some awesome sounds. I literally sat turning nobs for an hour I was so impressed by it. I also managed to make a little demo video to show what I did,
 

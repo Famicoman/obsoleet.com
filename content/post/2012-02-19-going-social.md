@@ -23,12 +23,12 @@ tags:
 ---
 As I start pre-production on Season 2, I went and updated some of Obsoleet’s more social platforms.
 
-There is now a Google Plus page located at, <https://plus.google.com/109504373189656584477/posts>
+~~There is now a Google Plus page located at, <https://plus.google.com/109504373189656584477/posts>~~
 
-The Facebook page now has a permanent address here, <https://www.facebook.com/Obsoleet>
+~~The Facebook page now has a permanent address here, <https://www.facebook.com/Obsoleet>~~
 
 The Twitter page as always, <https://twitter.com/#!/obsoleettv>
 
-I’ve also set up Obsoleet with the micro-donation platform Flattr here, <http://flattr.com/thing/500710/Obsoleet> as well as Bitcoin which you can find on the Donation page.
+~~I’ve also set up Obsoleet with the micro-donation platform Flattr here, <http://flattr.com/thing/500710/Obsoleet> as well as Bitcoin which you can find on the Donation page.~~
 
 Got any suggestions on how to bring Obsoleet into more of a social scene? Contact me and let me know.

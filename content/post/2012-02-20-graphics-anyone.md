@@ -19,6 +19,6 @@ tags:
   - images
 
 ---
-<span>For the blip.tv account, it has come to my attention that Obsoleet needs some new graphics in the following dimensions: 540&#215;800, 980&#215;400, 220&#215;150. Instead of adapt my same old design, I am posing it to the community to see if anyone can come up with anything else, and have their work showcased on the page (and anywhere else I feel like). I may also adapt designs for shirts later on down the line.<br /> </span>
+For the blip.tv account, it has come to my attention that Obsoleet needs some new graphics in the following dimensions: 540x800, 980x400, 220x150. Instead of adapt my same old design, I am posing it to the community to see if anyone can come up with anything else, and have their work showcased on the page (and anywhere else I feel like). I may also adapt designs for shirts later on down the line.
 
 So if it catches your fancy, fire up Photoshop or Gimp and let me see what you can come up with!

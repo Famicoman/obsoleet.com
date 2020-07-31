@@ -27,6 +27,10 @@ tags:
 ---
 This is not an episode, it is more of an experiment and a product of boredom. Thought I’d share it with the world instead of keep it to myself.
 
+{{< rawhtml >}}
+<iframe src="https://archive.org/embed/Obsoleet" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 You can also [download this (ridiculously large) video][1] in XviD from Archive.org.
 
 I decided I wanted to see how VHS degraded through the process of copying. Some people may be experienced with “workprint” cuts of movies. A workprint is simply an unfinished movie cut of a film meant for inner circulation by film personnel. Workprints can often contain unfinished effects, alternate takes, different endings, etc. This causes them to be highly prized by collectors.

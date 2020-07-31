@@ -24,7 +24,7 @@ Let me start off by saying that the last few months have been anything but a was
 
 So while I've been toiling away in my mad scientist's laboratory of technology, I've been thinking of where I want to take this new season. All of my previous content was filmed on standard definition tape which won't cut it very nicely for this new-fangled high definition format I've adopted. For starters, I want to do a new intro. So, if you happen to do any sort of graphics work and do animation or 3D rendering or anything like that and would like to contribute something, let me know. Maybe you have a 12 second rotation around an old Western Electric telephone done in Inventor or (like Pat) are doing some interesting video output work with an Arduino. If there's anything you think would fit in, you know how to get a hold of me.
 
-I'm also interested in what you guys want to see. Is the format working? Do you like the reviews? Are there specific segments that you think I could do or would like to see? Yeah, I get some requests now and then, but not as many as you'd think. Are you interested in more &#8220;meta&#8221; segments, like how I make the show or a tour of the things I have? Stuff like that.
+I'm also interested in what you guys want to see. Is the format working? Do you like the reviews? Are there specific segments that you think I could do or would like to see? Yeah, I get some requests now and then, but not as many as you'd think. Are you interested in more "meta" segments, like how I make the show or a tour of the things I have? Stuff like that.
 
 I'm open to all of your ideas, every which way. Let your imaginations run wild.
 

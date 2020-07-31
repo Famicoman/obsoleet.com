@@ -14,8 +14,8 @@ tags:
   - facebook
 
 ---
-For those of you who are socially-minded, I have created a Facebook page for Obsoleet that you can list under your television section. You can easily access it [here][1]. I thought it would be a fun way to involve the community if nothing else. I'm not the biggest fan of the Facebook page system, but I think I can work out a happy medium.
+~~For those of you who are socially-minded, I have created a Facebook page for Obsoleet that you can list under your television section. You can easily access it [here][1]. I thought it would be a fun way to involve the community if nothing else. I'm not the biggest fan of the Facebook page system, but I think I can work out a happy medium.~~
 
-Edit: Link fixed!
+~~Edit: Link fixed!~~
 
  [1]: https://www.facebook.com/Obsoleet "https://www.facebook.com/Obsoleet"

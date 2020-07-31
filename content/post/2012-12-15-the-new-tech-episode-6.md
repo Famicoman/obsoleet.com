@@ -13,4 +13,9 @@ tags:
   - the new tech
 
 ---
-I'm in the newest episode of <a title="The New Tech" href="http://thenewtech.tv" target="_blank">The New Tech</a> with a segment on floppy copying. It's basically in the style of an Obsoleet segment, and is my first foray back into a show format with my new filming gear. Check it out, and check out the rest of their episodes as well!
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zd8Ky5eh6cM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+I'm in the newest episode of [The New Tech](http://thenewtech.tv) with a segment on floppy copying. It's basically in the style of an Obsoleet segment, and is my first foray back into a show format with my new filming gear. Check it out, and check out the rest of their episodes as well!

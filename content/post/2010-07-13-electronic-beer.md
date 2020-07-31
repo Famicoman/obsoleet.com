@@ -16,4 +16,4 @@ tags:
   - thinstack
 
 ---
-A few weeks ago I was given a shoutout on episode 17 of the podcast <a href="http://electronicbeer.com" title="Electronic Beer" target="_blank">Electronic Beer</a> which is hosted by a group of people from Thinstack. It is an entertaining podcast focusing on beer and current events. Good for a listen, and great if you are in the chat channel on a live streaming night, which takes place every Wednesday.
+A few weeks ago I was given a shoutout on episode 17 of the podcast [Electronic Beer](http://electronicbeer.com) which is hosted by a group of people from [Thinstack](http://thinstack.net). It is an entertaining podcast focusing on beer and current events. Good for a listen, and great if you are in the chat channel on a live streaming night, which takes place every Wednesday.

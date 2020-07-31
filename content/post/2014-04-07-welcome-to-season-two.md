@@ -21,7 +21,7 @@ If you haven't already seen the new episode, take a minute and check it out. I h
 
 As for my next segments, I can say that I am working on completing this Raspberry Pi fueled segment and have a few more Raspberry Pi segments coming up behind. I also have some other segments in the works, but I've been very RPi focused over the past few weeks and enjoy the interesting, though tedious, challenges that come with the platform.
 
-Additionally, I've been working to try to revive some of the services I utilize for the show. Donations have now been expanded, and Dogecoin (as well as your other favorite cryptocurrencies) is now accepted aside from traditional donation services. These changes are reflected on the Donations page as well as a new widget on the left side of the screen. Social networking sites should also see some minor tweaks, and I do hope to redo the iTunes feed. Things are progressing fairly well, and I hope to bring out another episode soon.
+Additionally, I've been working to try to revive some of the services I utilize for the show. ~~Donations have now been expanded, and Dogecoin (as well as your other favorite cryptocurrencies) is now accepted aside from traditional donation services. These changes are reflected on the Donations page as well as a new widget on the left side of the screen.~~ Social networking sites should also see some minor tweaks, and I do hope to redo the iTunes feed. Things are progressing fairly well, and I hope to bring out another episode soon.
 
 As always, feel free to send me your questions, comments, concerns, or episode ideas. I've already got a few of each but always consider every bit of feedback I get.
 

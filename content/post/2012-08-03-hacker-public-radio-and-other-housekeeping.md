@@ -19,7 +19,7 @@ tags:
   - tnt
 
 ---
-On August 1st  a show I recorded for [Hacker Public Radio][1] (hpr) went live on their site. It is officially titled _Hacking Second Hand &#8211; Obtaining Old Tech_ and focuses on getting hardware from the used market. You can listen to it here, <a title="Hacking Second Hand" href="http://hackerpublicradio.org/eps.php?id=1043" target="_blank">http://hackerpublicradio.org/eps.php?id=1043</a>
+On August 1st  a show I recorded for [Hacker Public Radio][1] (hpr) went live on their site. It is officially titled _Hacking Second Hand &#8211; Obtaining Old Tech_ and focuses on getting hardware from the used market. You can listen to it here, http://hackerpublicradio.org/eps.php?id=1043.
 
 As for the Obsoleet.com site (which you are on), I have fixed the RSS feeds, and fixed/re-hosted all of the images. Everything should be imported over now, and re tagged as needed. There is some fine tuning to be done but the site is functional. The old site will soon get a post to direct stragglers over, and the old obsoleet.noobodeon.org will direct here as well.
 
