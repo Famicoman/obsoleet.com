@@ -1,6 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Obsoleet"
+name =  "Obsoleet"
+description = "Where Old Technology Goes to Live"
 theme = "hugo.386"
 
 preserveTaxonomyNames = true
@@ -10,7 +12,7 @@ preserveTaxonomyNames = true
     mainpagetitle = "OBSOLEET"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Where old technology goes to live"
+    mainpagesubtitle = "Where Old Technology Goes to Live"
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "Obsoleet was a retro tech video show that lived from 2010-2014. Originally shot on miniDV, season two was recorded in HD with a DSLR. There were likely only ever a handful of viewers, but most people seemed to like it at the time."
@@ -64,7 +66,7 @@ preserveTaxonomyNames = true
 
   [[menu.main]]
     identifier = "posts"
-    name = "All posts"
+    name = "All Posts"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 

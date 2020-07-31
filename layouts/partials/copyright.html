@@ -10,6 +10,7 @@
 {{ with .Site.Params.Copyright.Suffix }}
     | {{ . | markdownify }}
 {{end}}
+	| <a type="application/rss+xml" title="RSS" href="{{ .Site.BaseURL }}/post/index.xml">RSS</a>
 {{ if and (isset .Site.Params "showhugo") ( eq .Site.Params.shohugo "true") }}
         | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
 {{ end }}

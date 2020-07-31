@@ -3,6 +3,7 @@ title: Donate
 author: Famicoman
 type: page
 date: 2012-07-17T00:54:05+00:00
+draft: true
 tumblr_obsoleet_permalink:
   - http://obsoleet.tumblr.com/donate
 
