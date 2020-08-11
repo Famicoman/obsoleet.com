@@ -17,7 +17,7 @@ So I’m sure many of you know my work with the [IPTV Archive][1], and in a simi
 
 The idea for the site came around a month ago, and quickly went into a closed testing period. After it proved stable enough, it was expanded to a closed beta and has been so until today, where it is now completely public.
 
-![logo](/images/uploads/iptorrents-logo.png)]
+![logo](/images/uploads/iptorrents-logo.png)
 
 IPTV Torrents offers great potential. Not only can it be a great service for finding older, lost iptv shows, but can also be a great resource for newer ones. Why wade through dozens of pages of download links when you can click one and be done? It can even act as a launch pad for show creators to share their content, talk with other creators, and get connected with potential viewers.
 

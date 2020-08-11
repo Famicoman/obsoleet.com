@@ -10,7 +10,5 @@
 {{ with .Site.Params.Copyright.Suffix }}
     | {{ . | markdownify }}
 {{end}}
+	| Built on <a href="//gohugo.io" target="_blank">Hugo</a> with <a href="https://themes.gohugo.io/hugo.386/" target="_blank">hugo.386</a>
 	| <a type="application/rss+xml" title="RSS" href="{{ .Site.BaseURL }}/post/index.xml">RSS</a>
-{{ if and (isset .Site.Params "showhugo") ( eq .Site.Params.shohugo "true") }}
-        | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
-{{ end }}
