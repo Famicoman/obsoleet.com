@@ -34,11 +34,8 @@ tags:
   - vocoder
 
 ---
-_Episode 03_
-
-{{< rawhtml >}}
-<iframe src="https://archive.org/embed/ObsoleetS01e03" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-{{< /rawhtml >}}
+_Episode 03_  
+{{< vimeo 13496411 >}}  
 
 [~~Stream from Blip.tv~~](http://blip.tv/file/3906609)  
 [Stream from Vimeo.com](http://vimeo.com/13496411)  

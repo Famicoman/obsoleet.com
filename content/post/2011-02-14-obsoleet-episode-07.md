@@ -31,11 +31,8 @@ tags:
 ---
 _Episode 07_
 
-_“The Digisode”_
-
-{{< rawhtml >}}
-<iframe src="https://archive.org/embed/ObsoleetS01e07" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-{{< /rawhtml >}}
+_“The Digisode”_  
+{{< vimeo 19915552 >}}  
 
 [~~Stream from Blip.tv~~][1]  
 [Stream from Vimeo.com][2]  

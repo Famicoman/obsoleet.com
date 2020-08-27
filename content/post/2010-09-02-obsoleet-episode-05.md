@@ -29,10 +29,7 @@ tags:
 _Episode 05_
 
 _“The Perspectivsode”_  
-
-{{< rawhtml >}}
-<iframe src="https://archive.org/embed/ObsoleetS01e05" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-{{< /rawhtml >}}
+{{< vimeo 14630954 >}}  
 
 [~~Stream from Blip.tv~~][1]  
 [Stream from Vimeo.com][2]  

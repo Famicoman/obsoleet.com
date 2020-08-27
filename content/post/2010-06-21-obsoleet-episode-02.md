@@ -38,12 +38,9 @@ tags:
   - tone dialer
 
 ---
-_Episode 02_
+_Episode 02_  
 
-{{< rawhtml >}}
-<iframe src="https://archive.org/embed/ObsoleetS01e02" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-{{< /rawhtml >}}
-
+{{< vimeo 12753322 >}}  
 
 [~~Stream from Blip.tv~~][1]  
 [Stream from Vimeo.com][2]  
